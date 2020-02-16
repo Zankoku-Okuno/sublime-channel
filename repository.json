@@ -1,0 +1,17 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "Move By Paragraph (Okuno remix)",
+            "details": "https://github.com/Zankoku-Okuno/sublime-MoveByParagraph",
+            "author": ["xsleonard", "Zankoku-Okuno"],
+            "previous_names": ["Move Better"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
