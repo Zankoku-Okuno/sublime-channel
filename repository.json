@@ -12,6 +12,18 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "Lunarized Color Scheme",
+            "details": "https://github.com/Zankoku-Okuno/sublime-lunarized",
+            "author": ["braver", "Zankoku-Okuno"],
+            "previous_names": ["Solarized Color Scheme"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
         }
     ]
 }
